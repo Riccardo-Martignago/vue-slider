@@ -6,3 +6,9 @@ Bonus:
 Consigli del giorno:
 regola d'oro: riciclare ovunque possibile!
 il riciclo spesso va a braccetto con le funzioni! Sapendole sfruttare bene, l'esercizio si riduce a poche righe
+
+||PROCEDURA||
+
+Aggiungiamo la struttura base di vue sul file html e js.
+Aggiungo due bottoni nel file html.
+Creo un sistema che una volta premuto il bottone mi faccia cambiare l'immagine avanti o indietro a seconda del bottone premuto.
